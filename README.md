@@ -1,4 +1,4 @@
-# Decoupling-TCP
+# Decoupled-TCP
 Decoupled TCP is an effort towards decoupled use of double IP-addresses/interfaces by a modification of TCP. 
 Current TCP use the same path for up-link and down-link data transferring. We wish to do bidirectional decoupling on TCP to utilize link resource. 
 
